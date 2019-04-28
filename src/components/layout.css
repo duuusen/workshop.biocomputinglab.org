@@ -185,6 +185,8 @@ textarea {
   font: inherit;
 }
 html {
+  background: url(../images/bcl.jpg) no-repeat center center fixed;
+  background-size: cover;
   font: 112.5%/1.45em georgia, serif;
   box-sizing: border-box;
   overflow-y: scroll;
