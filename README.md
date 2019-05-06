@@ -1,4 +1,4 @@
-# Biological Computing Lab
+# Workshop Biocomputinglab
 
-### [biologicalcomputinglab.com](https://biologicalcomputinglab.com)
+### [workshop.biocomputinglab.com](https://workshop.biocomputinglab.com)
 
