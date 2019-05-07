@@ -8,7 +8,11 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`biological computing lab`, `bcl`, `interaction design`]} />
   <section>
   <h1>Fermentation Workshop</h1>
-  <br/>
+  <ul>
+    <li>When: Thu 9 May 2019</li>
+    <li>Where: Teakitchen 3rd Floor</li>
+    <li>Who: Everybody</li>
+  </ul>
   <p>
  The Bio Design Challenge Team from the 4th Semester Interaction Design Bachelor is excited to invite you to the first Ad-Hoc Fermentation Workshop at Toni Areal. 
 Fermentation is a metabolic process that has in most cultures been used for millennia to make foodstuffs less perishable or simply transform them. One prominent example is Kimchi, a staple in Korean cuisine.
