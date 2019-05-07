@@ -617,8 +617,11 @@ pre tt:after {
 }
 @media only screen and (max-width: 480px) {
   html {
-    font-size: 120%;
+    font-size: 110%;
   }
+  main {
+  padding: 2rem 2rem 2rem 2rem;
+}
   h1 {
     font-size: 1.2rem;
   }
