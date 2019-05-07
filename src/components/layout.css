@@ -185,9 +185,9 @@ textarea {
   font: inherit;
 }
 html {
-  background: url(../images/bcl.jpg) no-repeat center center fixed;
+  background: url(../images/bg.jpg) no-repeat center center fixed;
   background-size: cover;
-  font: 112.5%/1.45em georgia, serif;
+  font: 150%/1.45em 'Helvetica Neue', Helvetica, serif;
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -201,8 +201,8 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  color: #fff;
+  font-family: 'Helvetica Neue', Helvetica, serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -619,7 +619,7 @@ pre tt:after {
 }
 @media only screen and (max-width: 480px) {
   html {
-    font-size: 100%;
+    font-size: 120%;
   }
   h1 {
     font-size: 1.2rem;
