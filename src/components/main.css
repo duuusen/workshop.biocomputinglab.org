@@ -6,8 +6,9 @@ a {
   color: #fff;
   border-bottom: 1px solid rgba(255,255,255,0.6);
 }
-.bdcLink {
+.bdcLink, .feedbackLink {
   display: inline-block;
+  margin-right: 6rem;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
   -webkit-transition-duration: 0.3s;
@@ -15,7 +16,7 @@ a {
   -webkit-transition-property: transform;
   transition-property: transform;
 }
-.bdcLink:hover {
+.bdcLink:hover, .feedbackLink:hover {
   border-color: rgba(255,255,255,1);
   -webkit-transform: translateX(8px);
   transform: translateX(8px);

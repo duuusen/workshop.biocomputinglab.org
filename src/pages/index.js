@@ -2,6 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Emoji from "../components/emoji"
 
 const IndexPage = () => (
   <Layout>
@@ -20,6 +21,7 @@ The format of our workshop will be facilitating the exchange of knowledge about 
   </p>
   <br/>
   <a className={'bdcLink'} href="https://bdc.iad17.wtf">&#8674; Biodesign Challenge Blog</a>
+  <a className={'feedbackLink'} href="https://mala23.typeform.com/to/FdqrEl">&#8674; Feedback Form <Emoji symbol="🐛" labe="pile of shit" /></a>
   </section>
   </Layout>
 )
