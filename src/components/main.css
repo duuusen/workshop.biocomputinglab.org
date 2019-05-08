@@ -20,7 +20,7 @@ a {
   border-color: rgba(255,255,255,1);
   -webkit-transform: translateX(8px);
   transform: translateX(8px);
-  transition: 'border-bottom-color 300ms linear';
+  transition: border-bottom-color 300ms linear;
   -webkit-transition: border-bottom-color 300ms linear;
   -ms-transition: border-bottom-color 300ms linear;
   -moz-transition: border-bottom-color 300ms linear;
