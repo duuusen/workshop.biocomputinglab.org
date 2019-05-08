@@ -21,3 +21,14 @@ a {
   -webkit-transform: translateX(8px);
   transform: translateX(8px);
 }
+@media only screen and (max-width: 480px) {
+  html {
+    font-size: 110%;
+  }
+  h1 {
+    font-size: 1.2rem;
+  }
+  .bdcLink, .feedbackLink {
+    margin-right: 0;
+  }
+}
